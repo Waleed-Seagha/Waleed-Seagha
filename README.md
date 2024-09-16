@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm waleed seagha</h1>
 <h3 align="center">frontend develobar</h3>
-
+[![Typing SVG](https://readme-typing-svg.demolab.com/waleed+seaghat;frontend)](https://git.io/typing-svg)
 ## 💬 Ask me about
 - Backend web development (Python, TypeScript, PHP)
 - Frontend web development (Vue.js, React.js)
